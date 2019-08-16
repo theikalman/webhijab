@@ -6,11 +6,11 @@ categories: [Sample, Guides]
 ---
 
 ## Photo
-![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 1](assets/img/posts/kerudung-anak-manik-purple-1.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 1")
-![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 2](assets/img/posts/kerudung-anak-manik-purple-2.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 2")
-![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 3](assets/img/posts/kerudung-anak-manik-purple-3.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 3")
-![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 4](assets/img/posts/kerudung-anak-manik-purple-4.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 4")
-![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 5](assets/img/posts/kerudung-anak-manik-purple-5.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 5")
+![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 1](/assets/img/posts/kerudung-anak-manik-purple-1.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 1")
+![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 2](/assets/img/posts/kerudung-anak-manik-purple-2.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 2")
+![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 3](/assets/img/posts/kerudung-anak-manik-purple-3.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 3")
+![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 4](/assets/img/posts/kerudung-anak-manik-purple-4.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 4")
+![Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 5](/assets/img/posts/kerudung-anak-manik-purple-5.jpg "Jilbab Anak, Kerudung Anak, Model Instan Biru Tua untuk Anak 1 - 2 Tahun by YakinHijab - 5")
 
 ## Harga
 **Rp15.000**
