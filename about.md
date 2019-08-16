@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tentang Kami
-permalink: /about/
+permalink: /tentang-kami/
 ---
 
 YakinHijab merupakan online store yang menyediakan berbagai macam jenis hijab,

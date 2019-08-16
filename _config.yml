@@ -21,8 +21,8 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Tentang Kami', link: '/tentang-kami'}
+  - {name: 'Kontak', link: '/kontak'}
 
 tagline: >
   Menyediakan berbagai macam jenis hijab, untuk anak-anak maupun dewasa.
