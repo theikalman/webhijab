@@ -11,7 +11,3 @@ memerlukan barang untuk jumlah yang banyak (grosir).
 - Email: ajiyakin91---at---gmail.com
 
 _Catatan: untuk email, ganti `---at---` dengan `@`_
-
-{% include form.html %}
-
-{% include modal.html %}
